@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdullahkidwai
-- 👀 I’m interested in aviation & IT
-- 🌱 I’m currently learning Python & R Programming
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Advanced Python & Power BI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
